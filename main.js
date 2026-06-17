@@ -38,7 +38,7 @@ function calculaTempo(tempoObjetivo) {
   " horas " +
   minutos +
   " minutos " +
-  segundos +
+  segundos  +
   " segundos"
 );
 }
